@@ -4,6 +4,9 @@
 
 This project, part of the IT362 - Principles of Data Science course, analyzes the patterns, financial impacts, and trends of natural disasters from 1900 to 2021. Our goal is to enhance disaster preparedness through data-driven insights.
 
+## Motivations 
+While natural disasters may not always be preventable, early warning indicators can significantly mitigate losses and enhance protection measures. This study aims to deepen the understanding of natural disasters, focusing on proactive strategies to help minimize their impact and improve preparedness.
+
 ## Data Sources
 
 - **EM-DAT**: The International Disaster Database.
