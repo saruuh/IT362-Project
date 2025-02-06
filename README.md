@@ -21,7 +21,7 @@ This project, part of the IT362 - Principles of Data Science course, analyzes th
 We employ various techniques, including correlation analysis, geospatial analysis, regression analysis, and exploratory data analysis (EDA) to extract insights from the data.
 
 ## Contributers:
-### Nouf AlMansour - 444200525
-### Sara AlOqiel - 444203016 
-### Shahad AlMutairi - 444200935 
+- Nouf AlMansour - 444200525
+- Sara AlOqiel - 444203016 
+- Shahad AlMutairi - 444200935 
 
