@@ -1,0 +1,101 @@
+Event Name,Country,ISO,disaster type,Latitude,Longitude,Start Year,Start Month,Start Day,End Year,End Month,End Day,Magnitude,Magnitude Unit,Losses,Total Deaths,No. Injured,No. Affected,No. Homeless,Total Affected,Total Damages ('000 US$),Dis. Group,Disaster Subgroup
+,Indonesia,IDN,Earthquake,-1.9708,138.9033,2025,2,7,2025,2,7,5.0,M,,,,,,,,Natural,Geophysical
+TALIAH-25,,,Storm,-15.8,96.9,2025,2,2,2025,2,7,157.4064,km/h,,,,,,,,Natural,Meteorological
+VINCE-25,Cocos (Keeling) Islands,,Storm,-20.0,75.83,2025,2,1,2025,2,7,253.331712,km/h,,,,,,,,Natural,Meteorological
+,Taiwan,TWN,Earthquake,23.1911,120.5429,2025,2,7,2025,2,7,4.8,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,3.692,127.8168,2025,2,7,2025,2,7,4.6,M,,,,,,,,Natural,Geophysical
+,Italy,ITA,Earthquake,38.9658,14.8889,2025,2,7,2025,2,7,5.1,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5805,25.6218,2025,2,7,2025,2,7,4.6,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,1.275,-83.6471,2025,2,7,2025,2,7,4.7,M,,,,,,,,Natural,Geophysical
+,Russia,RUS,Earthquake,43.4426,147.7686,2025,2,7,2025,2,7,4.6,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,-23.9177,-176.143,2025,2,7,2025,2,7,6.0,M,,,,,,,,Natural,Geophysical
+,Ethiopia,ETH,Earthquake,9.1686,40.1978,2025,2,7,2025,2,7,4.8,M,,,,,,,,Natural,Geophysical
+,Ethiopia,ETH,Earthquake,9.3425,40.1856,2025,2,7,2025,2,7,4.6,M,,,,,,,,Natural,Geophysical
+,Indonesia,IDN,Earthquake,-7.2425,125.1561,2025,2,7,2025,2,7,4.8,M,,,,,,,,Natural,Geophysical
+,Peru,PER,Earthquake,-15.5994,-70.1897,2025,2,7,2025,2,7,4.8,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5485,25.6196,2025,2,7,2025,2,7,5.1,M,,,,,,,,Natural,Geophysical
+,Fiji,FJI,Earthquake,-15.5688,-179.7474,2025,2,7,2025,2,7,4.9,M,,,,,,,,Natural,Geophysical
+,Cocos Is.,CCK,Earthquake,-9.7998,97.5875,2025,2,7,2025,2,7,5.8,M,,,,,,,,Natural,Geophysical
+,Japan,JPN,Earthquake,43.2641,142.728,2025,2,7,2025,2,7,4.9,M,,,,,,,,Natural,Geophysical
+,Jordan,JOR,Flood,31.1847222,35.7047218,2025,2,5,2025,2,7,0.0,,,,,,,,,Natural,Hydrological
+,Australia,AUS,Wildfire,-41.61247878410094,145.29635138093386,2025,2,3,2025,2,7,6282.0,ha,,,,,,,,Natural,Climatological
+,Australia,AUS,Wildfire,-32.73794581971601,138.07563817685863,2025,2,3,2025,2,7,5780.0,ha,,,,,,,,Natural,Climatological
+,Australia,AUS,Wildfire,-21.830263382245462,130.65484176878684,2025,1,28,2025,2,7,6123.0,ha,,,,,,,,Natural,Climatological
+,Sudan,SDN,Wildfire,8.314791691560815,32.8421347402766,2025,2,2,2025,2,7,6682.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,6.3704814165708425,23.4912976964064,2025,1,31,2025,2,7,5583.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,6.529082699845676,25.624998863070648,2025,1,30,2025,2,7,5705.0,ha,,,,,,,,Natural,Climatological
+,Argentina,ARG,Wildfire,-41.87334510947997,-71.57623370015553,2025,1,30,2025,2,7,2116.0,ha,,,,,,,,Natural,Climatological
+,Argentina,ARG,Wildfire,-29.54299497678552,-58.30546275128037,2025,2,3,2025,2,7,15708.0,ha,,,,,,,,Natural,Climatological
+,Chad,TCD,Wildfire,14.42654949454464,19.828983894890055,2025,2,4,2025,2,7,12334.0,ha,,,,,,,,Natural,Climatological
+,Australia,AUS,Wildfire,-41.52558922049849,145.00541354153333,2025,2,3,2025,2,7,15741.0,ha,,,,,,,,Natural,Climatological
+,Argentina,ARG,Wildfire,-39.55108122017931,-71.26414482441434,2025,1,30,2025,2,7,11542.0,ha,,,,,,,,Natural,Climatological
+,The Democratic Republic of Congo,COD,Wildfire,4.389699824433486,29.67530146089401,2025,2,1,2025,2,7,8149.0,ha,,,,,,,,Natural,Climatological
+,Sudan,SDN,Wildfire,8.927259198638753,31.86707419485576,2025,1,28,2025,2,7,11881.0,ha,,,,,,,,Natural,Climatological
+,Sudan,SDN,Wildfire,7.613879935294861,33.487636776390694,2025,2,5,2025,2,7,17909.0,ha,,,,,,,,Natural,Climatological
+,Sudan,SDN,Wildfire,8.10197615608014,32.875920112004366,2025,2,4,2025,2,7,7945.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,6.657566248021661,24.36997770025408,2025,2,2,2025,2,7,6548.0,ha,,,,,,,,Natural,Climatological
+,Australia,AUS,Wildfire,-26.72809886289526,114.53919872604448,2025,1,31,2025,2,7,5019.0,ha,,,,,,,,Natural,Climatological
+,Guinea,GIN,Wildfire,9.291269831717326,-9.80178177483444,2025,2,2,2025,2,7,5341.0,ha,,,,,,,,Natural,Climatological
+,Colombia,COL,Earthquake,6.7272,-73.0809,2025,2,6,2025,2,6,4.5,M,,,,,,,,Natural,Geophysical
+,Tonga,TON,Earthquake,-16.6013,-173.6341,2025,2,6,2025,2,6,4.5,M,,,,,,,,Natural,Geophysical
+,Papua New Guinea,PNG,Earthquake,-2.8226,141.6313,2025,2,6,2025,2,6,5.0,M,,,,,,,,Natural,Geophysical
+,Papua New Guinea,PNG,Earthquake,-2.8138,141.6201,2025,2,6,2025,2,6,5.1,M,,,,,,,,Natural,Geophysical
+,Indonesia,IDN,Earthquake,4.4689,126.6945,2025,2,6,2025,2,6,5.4,M,,,,,,,,Natural,Geophysical
+,Chile,CHL,Earthquake,-42.4508,-74.2463,2025,2,6,2025,2,6,4.8,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5204,25.4862,2025,2,6,2025,2,6,4.6,M,,,,,,,,Natural,Geophysical
+,Chile,CHL,Earthquake,-30.0276,-71.2882,2025,2,6,2025,2,6,4.6,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.6462,25.6136,2025,2,6,2025,2,6,4.6,M,,,,,,,,Natural,Geophysical
+,Japan,JPN,Earthquake,39.7907,141.7934,2025,2,6,2025,2,6,4.6,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5727,25.5906,2025,2,6,2025,2,6,4.5,M,,,,,,,,Natural,Geophysical
+,Madagascar,MDG,Flood,-19.0054169,48.8687199169093,2025,2,4,2025,2,6,0.0,,,,,,,,,Natural,Hydrological
+,Argentina,ARG,Flood,-32.8166653,-60.7166716,2025,1,25,2025,2,6,0.0,,,,,,,,,Natural,Hydrological
+,Australia,AUS,Wildfire,-37.294849135415824,142.29713526600776,2025,1,27,2025,2,6,66791.0,ha,,,,,,,,Natural,Climatological
+,Australia,AUS,Wildfire,-23.646270407068105,133.4223137541575,2025,1,28,2025,2,6,52532.0,ha,,,,,,,,Natural,Climatological
+,Argentina,ARG,Wildfire,-44.112748418158176,-71.53285612195715,2025,1,29,2025,2,6,6353.0,ha,,,,,,,,Natural,Climatological
+,Argentina,ARG,Wildfire,-28.72112020073024,-60.447795168425365,2025,1,29,2025,2,6,5235.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,6.906259725706808,25.142265797271254,2025,1,29,2025,2,6,6846.0,ha,,,,,,,,Natural,Climatological
+,Chad,TCD,Wildfire,11.718614140806906,19.74594707024379,2025,2,3,2025,2,6,5688.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,7.590560231465581,21.28488346905262,2025,1,29,2025,2,6,7485.0,ha,,,,,,,,Natural,Climatological
+,,,Earthquake,-39.0218,-92.6005,2025,2,5,2025,2,5,4.6,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,-19.0936,-172.6221,2025,2,5,2025,2,5,5.0,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.6542,25.6259,2025,2,5,2025,2,5,5.1,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,-11.4468,117.237,2025,2,5,2025,2,5,4.7,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5579,25.6814,2025,2,5,2025,2,5,4.8,M,,,,,,,,Natural,Geophysical
+,Indonesia,IDN,Earthquake,-9.7446,119.6086,2025,2,5,2025,2,5,4.6,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.638,25.5914,2025,2,5,2025,2,5,4.8,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.6917,25.5912,2025,2,5,2025,2,5,4.7,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5653,25.653,2025,2,5,2025,2,5,4.9,M,,,,,,,,Natural,Geophysical
+,Chile,CHL,Earthquake,-20.2878,-69.2301,2025,2,5,2025,2,5,4.9,M,,,,,,,,Natural,Geophysical
+,Ecuador,ECU,Earthquake,-1.8053,-78.0667,2025,2,5,2025,2,5,4.9,M,,,,,,,,Natural,Geophysical
+,United States,USA,Earthquake,54.744,-158.068,2025,2,5,2025,2,5,4.7,M,,,,,,,,Natural,Geophysical
+,Vanuatu,VUT,Earthquake,-19.1985,168.7218,2025,2,5,2025,2,5,4.8,M,,,,,,,,Natural,Geophysical
+,Guatemala,GTM,Earthquake,13.8202,-91.5748,2025,2,5,2025,2,5,5.6,M,,,,,,,,Natural,Geophysical
+,Indonesia,IDN,Earthquake,1.5585,127.1409,2025,2,5,2025,2,5,5.5,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,-35.3171,178.8129,2025,2,5,2025,2,5,4.9,M,,,,,,,,Natural,Geophysical
+,,,Earthquake,-22.5598,-12.7353,2025,2,5,2025,2,5,4.9,M,,,,,,,,Natural,Geophysical
+,Namibia,NAM,Flood,-22.5776104,17.0772739,2025,2,3,2025,2,5,0.0,,,,,,,,,Natural,Hydrological
+,Australia,AUS,Wildfire,-23.71411530058404,133.23540066713554,2025,2,1,2025,2,5,5624.0,ha,,,,,,,,Natural,Climatological
+,Chad,TCD,Wildfire,10.736114246423629,19.60030405544991,2025,1,28,2025,2,5,5885.0,ha,,,,,,,,Natural,Climatological
+FIFTEEN-25,"Vanuatu, New Caledonia",NCL,Storm,-21.3,174.1,2025,2,2,2025,2,5,83.3328,km/h,,,,,,,,Natural,Meteorological
+,The Democratic Republic of Congo,COD,Wildfire,4.167980211664403,29.54836539438865,2025,1,30,2025,2,5,5735.0,ha,,,,,,,,Natural,Climatological
+,Central African Republic,CAF,Wildfire,6.545947088093261,24.554401507660867,2025,1,29,2025,2,5,9867.0,ha,,,,,,,,Natural,Climatological
+"Syria, Lebanon, Türkiye-2024","Israel, Iraq, Jordan, Lebanon, Syria, Türkiye",ISR,Drought,36.043,37.976,2024,10,21,2025,2,5,147626.0,km2,,,,,,,,Natural,Climatological
+North-East Brazil-2024,Brazil,BRA,Drought,-10.317,-37.764,2024,7,21,2025,2,5,61093.0,km2,,,,,,,,Natural,Climatological
+Eastern USA-2024,United States,USA,Drought,39.125,-76.243,2024,10,21,2025,2,5,27140.0,km2,,,,,,,,Natural,Climatological
+Northern UK and Ireland-2024,"Ireland, , ",IRL,Drought,54.829,-5.953,2024,10,21,2025,2,5,64771.0,km2,,,,,,,,Natural,Climatological
+Central Argentina-2024,Argentina,ARG,Drought,-38.5,-67.5,2024,8,21,2025,2,5,9683.0,km2,,,,,,,,Natural,Climatological
+Eastern Europe-2023,"Hungary, Poland, Romania, Slovakia, Ukraine",HUN,Drought,47.914,22.097,2023,5,21,2025,2,5,91316.0,km2,,,,,,,,Natural,Climatological
+South America-2023,"Bolivia, Brazil, Colombia, Ecuador, Guyana, Panama, Peru, Paraguay, Venezuela",BOL,Drought,-10.479,-63.464,2022,9,21,2025,2,5,1732137.0,km2,,,,,,,,Natural,Climatological
+Southern Europe-2023,"Bulgaria, Spain, Greece, Italy, Malta, Türkiye",BGR,Drought,39.997,25.488,2023,8,11,2025,2,5,72435.0,km2,,,,,,,,Natural,Climatological
+Northern Africa-2023,"Algeria, Spain, Morocco, Tunisia",DZA,Drought,33.398,-4.705,2023,9,21,2025,2,5,328346.0,km2,,,,,,,,Natural,Climatological
+Southern Africa-2023,"Angola, Botswana, Democratic Republic of Congo, Lesotho, Malawi, Mozambique, Namibia, Tanzania, South Africa, Zambia, Zimbabwe",AGO,Drought,-17.945,30.041,2023,8,21,2025,2,5,1357264.0,km2,,,,,,,,Natural,Climatological
+Madagascar-2023,Madagascar,MDG,Drought,-20.87,46.81,2023,10,21,2025,2,5,321962.0,km2,,,,,,,,Natural,Climatological
+"Mexico, South USA-2024","Mexico, United States",MEX,Drought,28.249,-106.226,2024,2,21,2025,2,5,239808.0,km2,,,,,,,,Natural,Climatological
+Nigeria - Eastern Gulf of Guinea-2024,"Cameroon, Gabon, Equatorial Guinea, Nigeria",CMR,Drought,4.073,10.8,2024,2,21,2025,2,5,152371.0,km2,,,,,,,,Natural,Climatological
+Western Africa-2024,"Guinea, Liberia, Sierra Leone",GIN,Drought,8.222,-10.348,2024,2,21,2025,2,5,84718.0,km2,,,,,,,,Natural,Climatological
+Southern Russia - Eastern Ukraine-2024,"Belarus, Russia, Ukraine",BLR,Drought,48.251,37.254,2024,3,21,2025,2,5,170695.0,km2,,,,,,,,Natural,Climatological
+United States of America-2024,"Canada, United States",CAN,Drought,29.981,-96.72,2024,6,21,2025,2,5,133525.0,km2,,,,,,,,Natural,Climatological
+"China, Vietnam, Laos-2024","China, Laos, Myanmar, Thailand, Vietnam",CHN,Drought,29.359,112.939,2024,5,21,2025,2,5,382694.0,km2,,,,,,,,Natural,Climatological
+,Russia,RUS,Earthquake,46.4936,153.5492,2025,2,4,2025,2,4,5.0,M,,,,,,,,Natural,Geophysical
+,China,CHN,Earthquake,41.2848,83.8028,2025,2,4,2025,2,4,5.0,M,,,,,,,,Natural,Geophysical
+,Greece,GRC,Earthquake,36.5432,25.5937,2025,2,4,2025,2,4,4.7,M,,,,,,,,Natural,Geophysical
