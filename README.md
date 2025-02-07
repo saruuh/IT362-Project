@@ -10,7 +10,7 @@ While natural disasters may not always be preventable, early warning indicators 
 ## Data Sources
 
 - **EM-DAT**: The International Disaster Database.
-- **Kaggle Dataset**:ALL NATURAL DISASTERS 1900-2021 / EOSDIS.
+- **Kaggle Dataset**:ALL NATURAL DISASTERS 1900-2025 / EOSDIS.
 - **GDACS**: Real-time alerts and data on disasters.
 
 ## Objectives
