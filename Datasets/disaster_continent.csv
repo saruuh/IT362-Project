@@ -1,61 +1,11 @@
-Disaster Type,Continent,Count
-Drought,Africa,6
-Drought,Asia,34
-Drought,Europe,8
-Drought,North America,17
-Drought,Oceania,4
-Drought,South America,18
-Earthquake,Africa,3
-Earthquake,Asia,233
-Earthquake,Europe,17
-Earthquake,North America,24
-Earthquake,Oceania,5
-Earthquake,South America,10
-Epidemic,Africa,55
-Epidemic,Asia,36
-Epidemic,Europe,4
-Epidemic,North America,5
-Epidemic,Oceania,1
-Epidemic,South America,11
-Extreme temperature,Africa,5
-Extreme temperature,Asia,61
-Extreme temperature,Europe,64
-Extreme temperature,North America,27
-Extreme temperature,Oceania,4
-Extreme temperature,South America,9
-Flood,Africa,98
-Flood,Asia,649
-Flood,Europe,143
-Flood,North America,198
-Flood,Oceania,65
-Flood,South America,233
-Glacial lake outburst flood,Asia,3
-Glacial lake outburst flood,Europe,1
-Infestation,Africa,1
-Infestation,Asia,1
-Infestation,Oceania,2
-Mass movement (dry),Africa,1
-Mass movement (dry),Asia,4
-Mass movement (dry),South America,1
-Mass movement (wet),Africa,2
-Mass movement (wet),Asia,150
-Mass movement (wet),Europe,4
-Mass movement (wet),North America,11
-Mass movement (wet),South America,33
-Storm,Africa,37
-Storm,Asia,415
-Storm,Europe,149
-Storm,North America,479
-Storm,Oceania,58
-Storm,South America,40
-Volcanic activity,Asia,34
-Volcanic activity,Europe,2
-Volcanic activity,North America,3
-Volcanic activity,Oceania,1
-Volcanic activity,South America,11
-Wildfire,Africa,8
-Wildfire,Asia,14
-Wildfire,Europe,20
-Wildfire,North America,98
-Wildfire,Oceania,24
-Wildfire,South America,9
+Disaster Group,Continent,Count
+DR,Asia,1
+DR,North America,3
+DR,South America,2
+EQ,Asia,8
+EQ,Europe,1
+EQ,North America,1
+EQ,South America,1
+FL,South America,1
+WF,Oceania,8
+WF,South America,5
